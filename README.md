@@ -32,7 +32,7 @@ built using Vite , a popular and powerful JavaScript library for building user i
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yvrjbhatiya/News-Hub
+   git clone https://github.com/thor8126/News
 
    ```
 
