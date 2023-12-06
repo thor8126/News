@@ -1,4 +1,4 @@
-# NEWS-HUB - React News App
+# NEWS - React News App
 
 This is a simple React application that displays news categories, top headlines, and more using the News API.
 built using Vite , a popular and powerful JavaScript library for building user interfaces.
